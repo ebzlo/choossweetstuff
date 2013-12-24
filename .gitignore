@@ -15,5 +15,5 @@
 /log/*.log
 /tmp
 
-.swp
+*.swp
 /lib/assets/bower_components
