@@ -16,7 +16,7 @@
 body {
   background-color: #b3413e;
   color: #fff;
-  font-family: 'avenir' !important;
+  font-family: 'avenir, lucida grande, tahoma, arial' !important;
   -webkit-font-smoothing: antialiased;
   font-weight: 500;
   font-size: 17px;
