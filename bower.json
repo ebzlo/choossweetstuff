@@ -1,0 +1,6 @@
+{
+  "name": "Choo's Sweet Stuff",
+  "dependencies": {
+    "bootstrap": "*"
+  }
+}
