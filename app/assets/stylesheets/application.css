@@ -34,12 +34,18 @@ body {
   background-position: 0 60%;
 }
 
-.css-banner .hidden-xs {
+.css-banner.hidden-xs img {
   margin-top: 250px;
   margin-bottom: 30px;
 }
 
-.css-banner .visible-xs {
+.css-banner.visible-xs {
+  background-color: #b3413e;
+  padding: 20px;
+  margin: -20px;
+}
+
+.css-banner.visible-xs img {
   margin-top: 100px;
   width: 100%;
 }
