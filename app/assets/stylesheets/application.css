@@ -14,12 +14,12 @@
  */
 
 body {
-  background-color: #b3413e;
-  color: #fff;
-  font-family: 'avenir, lucida grande, tahoma, arial' !important;
+  background-color: #eee;
+  color: #333;
+  font-family: avenir, lucida grande, tahoma, arial !important;
   -webkit-font-smoothing: antialiased;
   font-weight: 500;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 .background {
@@ -31,6 +31,7 @@ body {
   background-image: url(/assets/hamster.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 0 60%;
 }
 
 .css-banner .hidden-xs {
@@ -62,17 +63,17 @@ ul li {
 }
 
 a {
-  color: #f9da9f;
+  color: #b3413e;
 }
 
 a:hover {
-  color: #fff2da;
+  color: #ca7b78;
   text-decoration: none;
 }
 
 .footer {
   padding: 100px 0;
-  color: #ca7b78;
+  color: #aaa;
   text-align: center;
   font-size: 13px;
 }
